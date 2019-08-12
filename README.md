@@ -1,6 +1,6 @@
 # About Data Structures &Algorithms
 
-This is a collection of my insights and reflections related data structures and algorithms.
+This is a collection of my insights and reflections related to data structures and algorithms.
 
 I'll keep adding content to it.
 
