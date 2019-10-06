@@ -1,4 +1,4 @@
-# Breath First Search(BFS) vs. Depth First Search(DFS)
+# Breadth First Search(BFS) vs. Depth First Search(DFS)
 
 ## Running Complexity
 almost the same: O(V+E)
