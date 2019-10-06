@@ -12,7 +12,7 @@ Faster Algorithms can be slower than slower algorithms on slower IO oprations.
 e.g. Bubble sort (in memory) vs Merge sort (external network disk)
 
 ## Big-O notation is only a guidance
-It's math. Not a reality in most cases.
+It's math. Not a reality in some cases.
 e.g. Bubble sort can consistently beat quick sort (when the number of elements < 32 or 64)
 
 ...to be continued
